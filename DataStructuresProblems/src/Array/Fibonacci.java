@@ -1,4 +1,4 @@
-import java.util.*;
+package Array;
 
 public class Fibonacci {
     public  int getNthFib(int n) {
